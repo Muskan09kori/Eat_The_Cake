@@ -1,0 +1,15 @@
+# This ignores temporary files, logs, and build artifacts
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Ignore Visual Studio cache files
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
